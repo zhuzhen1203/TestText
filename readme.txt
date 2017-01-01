@@ -1,2 +1,2 @@
 read me git from here!
-no input password!
+NO no input password!
